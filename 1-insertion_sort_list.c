@@ -2,7 +2,8 @@
 #include <stdbool.h>
 
 /**
- * insertion_sort_list - Sorts a doubly linked list of integers in ascending order
+ * insertion_sort_list - Sorts a doubly linked list of integers
+ * in ascending order
  * @list: Double pointer to the head of the linked list
  *
  * Description:
